@@ -1,0 +1,29 @@
+{
+  "name": "hitclub-tai-xiu-prediction",
+  "version": "3.0.0",
+  "description": "Advanced Tai Xiu Prediction API with self-learning capabilities",
+  "main": "Hitclub.js",
+  "scripts": {
+    "start": "node Hitclub.js",
+    "dev": "nodemon Hitclub.js"
+  },
+  "keywords": [
+    "tai-xiu",
+    "prediction",
+    "machine-learning",
+    "api",
+    "express"
+  ],
+  "author": "@mryanhdz & @ttt10279",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
